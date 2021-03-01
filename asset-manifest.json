@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pulsechat/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pulsechat/static/js/main.c8ad6778.chunk.js",
+    "main.js.map": "/pulsechat/static/js/main.c8ad6778.chunk.js.map",
+    "runtime-main.js": "/pulsechat/static/js/runtime-main.b3e82d13.js",
+    "runtime-main.js.map": "/pulsechat/static/js/runtime-main.b3e82d13.js.map",
+    "static/js/2.1bdcc056.chunk.js": "/pulsechat/static/js/2.1bdcc056.chunk.js",
+    "static/js/2.1bdcc056.chunk.js.map": "/pulsechat/static/js/2.1bdcc056.chunk.js.map",
+    "static/js/3.bc5a1e32.chunk.js": "/pulsechat/static/js/3.bc5a1e32.chunk.js",
+    "static/js/3.bc5a1e32.chunk.js.map": "/pulsechat/static/js/3.bc5a1e32.chunk.js.map",
+    "index.html": "/pulsechat/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pulsechat/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.1bdcc056.chunk.js.LICENSE.txt": "/pulsechat/static/js/2.1bdcc056.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pulsechat/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3e82d13.js",
+    "static/js/2.1bdcc056.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c8ad6778.chunk.js"
+  ]
+}
