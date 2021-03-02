@@ -11,7 +11,7 @@ function App() {
 
   useEffect(() => {
     const socket = socketIOClient(ENDPOINT);
-    socket.on("FromAPI", data => {
+    socket.on("rate", data => {
       setResponse(data);
     });
   }, []);
@@ -29,6 +29,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header" style={{backgroundColor: colorFromRate(response)}}>
+        {response}
         {response != 0 ? response: "Error: Heartrate Unavailable"}
       </header>
     </div>
