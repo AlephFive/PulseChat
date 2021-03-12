@@ -4,14 +4,9 @@ object-assign
 @license MIT
 */
 
-/*!
- * The buffer module from node.js, for the browser.
- *
- * @author   Feross Aboukhadijeh <http://feross.org>
- * @license  MIT
- */
+/*! JSON v3.3.2 | http://bestiejs.github.io/json3 | Copyright 2012-2014, Kit Cambridge | http://kit.mit-license.org */
 
-/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+/*! https://mths.be/utf8js v2.0.0 by @mathias */
 
 /** @license React v0.20.1
  * scheduler.production.min.js
