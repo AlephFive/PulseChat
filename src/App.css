@@ -22,6 +22,11 @@
   justify-content: center;
   font-size: calc(80px + 2vmin);
   color: white;
+  -webkit-transition: background-color 700ms linear;
+  -moz-transition: background-color 700ms linear;
+  -o-transition: background-color 700ms linear;
+  -ms-transition: background-color 700ms linear;
+  transition: background-color 700ms linear;
 }
 
 .App-link {

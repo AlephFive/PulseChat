@@ -18,11 +18,18 @@ function App() {
   }, []);
 
   function colorFromRate(params) {
-    if(params == 0){
+    var tempParams = params;
+    if(tempParams == 0){
       return '#282c34';
     }
+    else if(tempParams > 80){
+      return '#E04334'
+    }
+    else if(tempParams > 70){
+      return '#E0A359';
+    }
     else{
-      return '#282c34';
+      return '#47A664';
     }
   }
 
