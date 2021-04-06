@@ -22,13 +22,18 @@ function App() {
     if(tempParams == 0){
       return '#282c34';
     }
-    else if(tempParams > 80){
-      return '#E04334'
-    }
+    //else if(tempParams > 80){
+      //orange
+      //return '#E0A359'
+    //}
     else if(tempParams > 70){
-      return '#E0A359';
+      //yellow
+      //return '#DFD875';
+      //orange
+      return '#E0A359'
     }
     else{
+      //green
       return '#47A664';
     }
   }
